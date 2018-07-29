@@ -1,2 +1,2 @@
 # ZookeeperWinServiceHost
-A tool used to host zookeeper server instance to windows service
+A tool used to host zookeeper server instance as windows service
