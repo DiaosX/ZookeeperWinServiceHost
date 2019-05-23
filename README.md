@@ -19,7 +19,7 @@ A tool used to host zookeeper server instance as windows service
    
 
 
-## what the advantages over prunsrv ?
+## what's the advantages over prunsrv ?
 
 the ZookeeperWinServiceHost can kill java.exe when stop windows service ,but prunsrv can not.
 
