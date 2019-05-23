@@ -2,7 +2,7 @@
 
 A tool used to host zookeeper server instance as windows service
 
-## how to use?
+## how to use ?
 
 1.download Release folder
 2.set Appsetting.config,
@@ -19,7 +19,7 @@ A tool used to host zookeeper server instance as windows service
    
 
 
-## the advantages over prunsrv
+## what the advantages over prunsrv ?
 
 the ZookeeperWinServiceHost can kill java.exe when stop windows service ,but prunsrv can not.
 
