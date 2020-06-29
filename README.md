@@ -4,7 +4,7 @@ A tool used to host zookeeper server instance as windows service
 
 ## how to use ?
 
-1. download Release folder
+1. download Release folder(http://archive.apache.org/dist/zookeeper/)
 2. set Appsetting.config,
   only three config item need to be set:
   
