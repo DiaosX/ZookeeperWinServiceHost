@@ -1,1 +1,0 @@
-ipconfig >C:\ipconfig.txt
